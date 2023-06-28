@@ -1,1 +1,5 @@
-
+This is a Data Structures project which aims to keep track of data related to available quantites af blood. rbcs etc. 
+and keeping track of the donors as well as hospitals placing requirement in the blood bank.
+The project is implemented in Java (The project is console based.)
+Data Strucures like Linked Lists, priority queue are mainly used for the implementation of this project
+This project was done as a part of a second-year computer engineering project and the team that made this project was: Shreya Godbole, Tanishka Agiwal and Niharika Gurav 
